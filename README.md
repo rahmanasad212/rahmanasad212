@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rahmanasad212
 - 👀 I’m interested in doing remote jobs based on web development, especially using javascripts frameworks like MERN stack.
-- 🌱 I’m currently learning web development best practises.
+- 🌱 I’m currently a professional web developer.
 - 💞️ I’m looking to collaborate on MERN stack projects.
 
 <!---
